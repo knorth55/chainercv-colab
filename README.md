@@ -1,7 +1,9 @@
 # chainercv-colab
 
-Run [chainercv_demos.ipynb](./chainercv_demos.ipynb)
+## Google colaboratory demo
 
-## Google Colaboratory
+Jump to [ChainerCV Demos](https://colab.research.google.com/github/knorth55/chainercv-colab/blob/master/chainercv_demos.ipynb)
 
-Jump to [ChainerCV Demos on Google Colab](https://colab.research.google.com/github/knorth55/chainercv-colab/blob/master/chainercv_demos.ipynb)
+## Github demo page
+
+Go to [chainercv_demos.ipynb](./chainercv_demos.ipynb)
